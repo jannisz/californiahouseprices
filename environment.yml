@@ -1,0 +1,9 @@
+name: dev_2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.8
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
